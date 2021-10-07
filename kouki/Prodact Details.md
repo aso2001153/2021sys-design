@@ -1,4 +1,6 @@
 ## 画面詳細
+---
+![スクリーンショット (373)](https://user-images.githubusercontent.com/83048171/136469363-b3027865-4bf4-44af-8df5-32cff031543c.png)
 
 ---
 |ID|検索|内容|アクション|イベント|対応DB|

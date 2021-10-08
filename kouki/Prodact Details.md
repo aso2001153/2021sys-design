@@ -1,4 +1,4 @@
-## 画面詳細
+## 商品詳細
 ---
 ![スクリーンショット (373)](https://user-images.githubusercontent.com/83048171/136469363-b3027865-4bf4-44af-8df5-32cff031543c.png)
 

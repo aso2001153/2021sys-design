@@ -1,4 +1,4 @@
-## トップページ
+## 購入完了
 ---
 ![スクリーンショット (374)](https://user-images.githubusercontent.com/83048171/136477701-5052772f-0f68-4fab-920c-7b1811d0ad34.png)
 ---
